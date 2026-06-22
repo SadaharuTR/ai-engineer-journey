@@ -1,0 +1,21 @@
+# Sanal ortam — asla yüklenmez
+.venv/
+venv/
+
+# Gizli anahtarlar — ASLA yüklenmez (API key'leri buraya)
+.env
+.env.*
+!.env.example
+
+# Python derleme/önbellek
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editör / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
