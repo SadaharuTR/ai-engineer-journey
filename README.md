@@ -3,7 +3,7 @@
 Bir .NET geliştiricisinin (C#/SQL/full-stack geçmişiyle) **AI Engineer** rolüne geçiş yolculuğunun gün gün kaydı. "Learning in public" — her adımı, her kursu, her projeyi açıkça belgeliyorum.
 
 **Hedef rol:** AI Engineer / GenAI Uygulama Geliştirici (model araştırmacısı değil — hazır modelleri gerçek uygulamalara bağlayan kişi).
-**Avantaj:** Mevcut C#/.NET birikimi + Microsoft AI yığını (Semantic Kernel). Python ikinci dil olarak ekleniyor.
+**Temel:** Mevcut C#/.NET birikimi + Microsoft AI yığını (Semantic Kernel). Python ikinci dil olarak ekleniyor.
 **Süre:** ~6–12 ay, haftada ~8–10 saat.
 
 ---
